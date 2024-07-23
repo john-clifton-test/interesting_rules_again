@@ -6,7 +6,7 @@ switch ($variable) {
   case 0:
     print "Case 0 triggered\n";
     break;
-  default:
+  default: 
   print "Default triggered\n";
     break;
 }
