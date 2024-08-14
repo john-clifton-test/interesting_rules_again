@@ -30,7 +30,7 @@ def complicated_code(input):
             input += b
             if c < d:
                 input += d
-                if a < c:
+                if a < c: 
                     while counter < 10:
                         input += a
                         counter += 1
