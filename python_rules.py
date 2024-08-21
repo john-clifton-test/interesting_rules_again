@@ -42,7 +42,7 @@ def complicated_code(input):
                                 input += a
 
     print("Hello there!")
-    return make_response(input)
+    return make_response(input) 
 
 @app.route('/xss2')
 def index2():
