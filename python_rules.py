@@ -24,7 +24,7 @@ def complicated_code(input):
     d=4
     counter = 1
 
-    if a in (a,b,c,d):
+    if a in (a,b,c,d):  
         input += c
         if a < b:
             input += b
